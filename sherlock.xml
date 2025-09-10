@@ -1,70 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" ?>
 <rss version="2.0">
   <channel>
-    <title>The Casebook of Sherlock Holmes (BBC)</title>
-    <link>https://archive.org/details/tcboshbbc</link>
+    <title>The Case-Book of Sherlock Holmes (BBC Radio)</title>
+    <link>https://archive.org/download/tcboshbbc/</link>
     <language>en</language>
-    <description>BBC Radio Drama: The Casebook of Sherlock Holmes. Quelle: archive.org</description>
-
+    <description>BBC Radio Drama collection from archive.org</description>
     <item>
-      <title>01 - The Adventure of the Illustrious Client</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/01%20The%20Illustrious%20Client.mp3" type="audio/mpeg"/>
+      <title>49 - The Case-Book Of Sherlock Holmes - The Adventure Of The Illustrious Client</title>
+      <enclosure url="https://archive.org/download/tcboshbbc/49%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Illustrious%20Client.mp3" type="audio/mpeg"/>
     </item>
-
     <item>
-      <title>02 - The Adventure of the Blanched Soldier</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/02%20The%20Blanched%20Soldier.mp3" type="audio/mpeg"/>
+      <title>50 - The Case-Book Of Sherlock Holmes - The Adventure Of The Blanched Soldier</title>
+      <enclosure url="https://archive.org/download/tcboshbbc/50%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Blanched%20Soldier.mp3" type="audio/mpeg"/>
     </item>
-
     <item>
-      <title>03 - The Adventure of the Mazarin Stone</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/03%20The%20Mazarin%20Stone.mp3" type="audio/mpeg"/>
+      <title>51 - The Case-Book Of Sherlock Holmes - The Adventure Of The Mazarin Stone</title>
+      <enclosure url="https://archive.org/download/tcboshbbc/51%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Mazarin%20Stone.mp3" type="audio/mpeg"/>
     </item>
-
     <item>
-      <title>04 - The Adventure of the Three Gables</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/04%20The%20Three%20Gables.mp3" type="audio/mpeg"/>
+      <title>52 - The Case-Book Of Sherlock Holmes - The Adventure Of The Three Gables</title>
+      <enclosure url="https://archive.org/download/tcboshbbc/52%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Three%20Gables.mp3" type="audio/mpeg"/>
     </item>
-
     <item>
-      <title>05 - The Adventure of the Sussex Vampire</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/05%20The%20Sussex%20Vampire.mp3" type="audio/mpeg"/>
+      <title>53 - The Case-Book Of Sherlock Holmes - The Adventure Of The Sussex Vampire</title>
+      <enclosure url="https://archive.org/download/tcboshbbc/53%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Sussex%20Vampire.mp3" type="audio/mpeg"/>
     </item>
-
     <item>
-      <title>06 - The Adventure of the Three Garridebs</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/06%20The%20Three%20Garridebs.mp3" type="audio/mpeg"/>
+      <title>54 - The Case-Book Of Sherlock Holmes - The Adventure Of The Three Garridebs</title>
+      <enclosure url="https://archive.org/download/tcboshbbc/54%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Three%20Garridebs.mp3" type="audio/mpeg"/>
     </item>
-
     <item>
-      <title>07 - The Adventure of the Problem of Thor Bridge</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/07%20The%20Problem%20of%20Thor%20Bridge.mp3" type="audio/mpeg"/>
+      <title>55 - The Case-Book Of Sherlock Holmes - The Problem Of Thor Bridge</title>
+      <enclosure url="https://archive.org/download/tcboshbbc/55%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Problem%20Of%20Thor%20Bridge.mp3" type="audio/mpeg"/>
     </item>
-
     <item>
-      <title>08 - The Adventure of the Creeping Man</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/08%20The%20Creeping%20Man.mp3" type="audio/mpeg"/>
+      <title>56 - The Case-Book Of Sherlock Holmes - The Adventure Of The Creeping Man</title>
+      <enclosure url="https://archive.org/download/tcboshbbc/56%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Creeping%20Man.mp3" type="audio/mpeg"/>
     </item>
-
     <item>
-      <title>09 - The Adventure of the Lion’s Mane</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/09%20The%20Lion%27s%20Mane.mp3" type="audio/mpeg"/>
+      <title>57 - The Case-Book Of Sherlock Holmes - The Adventure Of The Lions Mane</title>
+      <enclosure url="https://archive.org/download/tcboshbbc/57%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Lions%20Mane.mp3" type="audio/mpeg"/>
     </item>
-
     <item>
-      <title>10 - The Adventure of the Veiled Lodger</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/10%20The%20Veiled%20Lodger.mp3" type="audio/mpeg"/>
+      <title>58 - The Case-Book Of Sherlock Holmes - The Adventure Of The Veiled Lodger</title>
+      <enclosure url="https://archive.org/download/tcboshbbc/58%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Veiled%20Lodger.mp3" type="audio/mpeg"/>
     </item>
-
     <item>
-      <title>11 - The Adventure of Shoscombe Old Place</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/11%20Shoscombe%20Old%20Place.mp3" type="audio/mpeg"/>
+      <title>59 - The Case-Book Of Sherlock Holmes - The Adventure Of Shoscombe Old Place</title>
+      <enclosure url="https://archive.org/download/tcboshbbc/59%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20Shoscombe%20Old%20Place.mp3" type="audio/mpeg"/>
     </item>
-
     <item>
-      <title>12 - The Adventure of the Retired Colourman</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/12%20The%20Retired%20Colourman.mp3" type="audio/mpeg"/>
+      <title>60 - The Case-Book Of Sherlock Holmes - The Adventure Of The Retired Colourman</title>
+      <enclosure url="https://archive.org/download/tcboshbbc/60%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Retired%20Colourman.mp3" type="audio/mpeg"/>
     </item>
-
   </channel>
 </rss>
