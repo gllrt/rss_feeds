@@ -1,565 +1,1405 @@
 <?xml version="1.0" ?>
-<rss version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Kombinierter Podcast Feed</title>
     <link>https://archive.org/download/tcboshbbc</link>
-    <language>en</language>
+    <language>de</language>
     <description>Kombinierter Feed aus mehreren Archive.org Sammlungen</description>
+    <itunes:image href="https://ichef.bbci.co.uk/images/ic/640x360/p0287tfm.jpg"/>
+    <image>
+      <url>https://ichef.bbci.co.uk/images/ic/640x360/p0287tfm.jpg</url>
+      <title>Kombinierter Podcast Feed</title>
+      <link>https://archive.org/download/tcboshbbc</link>
+    </image>
     <item>
       <title>BBC Sherlock Holmes | 49 - The Case-Book Of Sherlock Holmes - The Adventure Of The Illustrious Client</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/49%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Illustrious%20Client.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: The Case-Book of Sherlock Holmes]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/tcboshbbc/49%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Illustrious%20Client.mp3</guid>
+      <enclosure url="https://archive.org/download/tcboshbbc/49%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Illustrious%20Client.mp3" length="40735533" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2545</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/640x360/p0287tfm.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes | 50 - The Case-Book Of Sherlock Holmes - The Adventure Of The Blanched Soldier</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/50%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Blanched%20Soldier.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: The Case-Book of Sherlock Holmes]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/tcboshbbc/50%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Blanched%20Soldier.mp3</guid>
+      <enclosure url="https://archive.org/download/tcboshbbc/50%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Blanched%20Soldier.mp3" length="41220087" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2575</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/640x360/p0287tfm.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes | 51 - The Case-Book Of Sherlock Holmes - The Adventure Of The Mazarin Stone</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/51%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Mazarin%20Stone.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: The Case-Book of Sherlock Holmes]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/tcboshbbc/51%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Mazarin%20Stone.mp3</guid>
+      <enclosure url="https://archive.org/download/tcboshbbc/51%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Mazarin%20Stone.mp3" length="41383134" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2586</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/640x360/p0287tfm.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes | 52 - The Case-Book Of Sherlock Holmes - The Adventure Of The Three Gables</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/52%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Three%20Gables.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: The Case-Book of Sherlock Holmes]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/tcboshbbc/52%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Three%20Gables.mp3</guid>
+      <enclosure url="https://archive.org/download/tcboshbbc/52%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Three%20Gables.mp3" length="42303453" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2643</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/640x360/p0287tfm.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes | 53 - The Case-Book Of Sherlock Holmes - The Adventure Of The Sussex Vampire</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/53%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Sussex%20Vampire.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: The Case-Book of Sherlock Holmes]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/tcboshbbc/53%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Sussex%20Vampire.mp3</guid>
+      <enclosure url="https://archive.org/download/tcboshbbc/53%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Sussex%20Vampire.mp3" length="41063712" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2566</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/640x360/p0287tfm.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes | 54 - The Case-Book Of Sherlock Holmes - The Adventure Of The Three Garridebs</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/54%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Three%20Garridebs.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: The Case-Book of Sherlock Holmes]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/tcboshbbc/54%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Three%20Garridebs.mp3</guid>
+      <enclosure url="https://archive.org/download/tcboshbbc/54%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Three%20Garridebs.mp3" length="42522795" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2657</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/640x360/p0287tfm.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes | 55 - The Case-Book Of Sherlock Holmes - The Problem Of Thor Bridge</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/55%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Problem%20Of%20Thor%20Bridge.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: The Case-Book of Sherlock Holmes]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/tcboshbbc/55%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Problem%20Of%20Thor%20Bridge.mp3</guid>
+      <enclosure url="https://archive.org/download/tcboshbbc/55%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Problem%20Of%20Thor%20Bridge.mp3" length="42237567" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2639</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/640x360/p0287tfm.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes | 56 - The Case-Book Of Sherlock Holmes - The Adventure Of The Creeping Man</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/56%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Creeping%20Man.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: The Case-Book of Sherlock Holmes]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/tcboshbbc/56%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Creeping%20Man.mp3</guid>
+      <enclosure url="https://archive.org/download/tcboshbbc/56%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Creeping%20Man.mp3" length="42603276" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2662</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/640x360/p0287tfm.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes | 57 - The Case-Book Of Sherlock Holmes - The Adventure Of The Lions Mane</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/57%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Lions%20Mane.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: The Case-Book of Sherlock Holmes]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/tcboshbbc/57%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Lions%20Mane.mp3</guid>
+      <enclosure url="https://archive.org/download/tcboshbbc/57%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Lions%20Mane.mp3" length="42639555" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2664</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/640x360/p0287tfm.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes | 58 - The Case-Book Of Sherlock Holmes - The Adventure Of The Veiled Lodger</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/58%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Veiled%20Lodger.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: The Case-Book of Sherlock Holmes]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/tcboshbbc/58%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Veiled%20Lodger.mp3</guid>
+      <enclosure url="https://archive.org/download/tcboshbbc/58%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Veiled%20Lodger.mp3" length="42506949" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2656</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/640x360/p0287tfm.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes | 59 - The Case-Book Of Sherlock Holmes - The Adventure Of Shoscombe Old Place</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/59%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20Shoscombe%20Old%20Place.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: The Case-Book of Sherlock Holmes]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/tcboshbbc/59%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20Shoscombe%20Old%20Place.mp3</guid>
+      <enclosure url="https://archive.org/download/tcboshbbc/59%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20Shoscombe%20Old%20Place.mp3" length="41556189" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2597</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/640x360/p0287tfm.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes | 60 - The Case-Book Of Sherlock Holmes - The Adventure Of The Retired Colourman</title>
-      <enclosure url="https://archive.org/download/tcboshbbc/60%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Retired%20Colourman.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: The Case-Book of Sherlock Holmes]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/tcboshbbc/60%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Retired%20Colourman.mp3</guid>
+      <enclosure url="https://archive.org/download/tcboshbbc/60%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Retired%20Colourman.mp3" length="42337647" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2645</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/640x360/p0287tfm.jpg"/>
     </item>
     <item>
       <title>BBC Poirot | Agatha Christie - Murder on the Orient Express (BBC) 1 of 5</title>
-      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%201%20of%205.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot on The Orient Express]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%201%20of%205.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%201%20of%205.mp3" length="28056391" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1753</itunes:duration>
+      <itunes:image href="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/SherlockHolmes-CliveMerrissonBBCAudiodramas.jpg"/>
     </item>
     <item>
       <title>BBC Poirot | Agatha Christie - Murder on the Orient Express (BBC) 2 of 5</title>
-      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%202%20of%205.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot on The Orient Express]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%202%20of%205.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%202%20of%205.mp3" length="28163807" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1759</itunes:duration>
+      <itunes:image href="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/SherlockHolmes-CliveMerrissonBBCAudiodramas.jpg"/>
     </item>
     <item>
       <title>BBC Poirot | Agatha Christie - Murder on the Orient Express (BBC) 3 of 5</title>
-      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%203%20of%205.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot on The Orient Express]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%203%20of%205.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%203%20of%205.mp3" length="27992861" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1749</itunes:duration>
+      <itunes:image href="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/SherlockHolmes-CliveMerrissonBBCAudiodramas.jpg"/>
     </item>
     <item>
       <title>BBC Poirot | Agatha Christie - Murder on the Orient Express (BBC) 4 of 5</title>
-      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%204%20of%205.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot on The Orient Express]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%204%20of%205.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%204%20of%205.mp3" length="28056391" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1753</itunes:duration>
+      <itunes:image href="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/SherlockHolmes-CliveMerrissonBBCAudiodramas.jpg"/>
     </item>
     <item>
       <title>BBC Poirot | Agatha Christie - Murder on the Orient Express (BBC) 5 of 5</title>
-      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%205%20of%205.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot on The Orient Express]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%205%20of%205.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%205%20of%205.mp3" length="28293792" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1768</itunes:duration>
+      <itunes:image href="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/SherlockHolmes-CliveMerrissonBBCAudiodramas.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Lord Edgware Dies 1</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%201.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%201.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%201.mp3" length="5349161" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1782</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Lord Edgware Dies 2</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%202.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%202.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%202.mp3" length="5218444" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1739</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Lord Edgware Dies 3</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%203.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%203.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%203.mp3" length="5280825" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1759</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Lord Edgware Dies 4</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%204.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%204.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%204.mp3" length="5198539" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1732</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Lord Edgware Dies 5</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%205.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%205.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%205.mp3" length="5304021" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1767</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Mrs. McGinty's Dead 1</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%201.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%201.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%201.mp3" length="5098264" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1699</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Mrs. McGinty's Dead 2</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%202.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%202.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%202.mp3" length="5082277" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1693</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Mrs. McGinty's Dead 3</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%203.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%203.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%203.mp3" length="5048701" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1682</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Mrs. McGinty's Dead 4</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%204.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%204.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%204.mp3" length="5177850" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1725</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Mrs. McGinty's Dead 5</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%205.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%205.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%205.mp3" length="5088043" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1695</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Murder in Mesopotamia 1</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%201.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%201.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%201.mp3" length="5186941" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1728</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Murder in Mesopotamia 2</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%202.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%202.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%202.mp3" length="5224561" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1741</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Murder in Mesopotamia 3</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%203.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%203.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%203.mp3" length="5296659" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1765</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Murder in Mesopotamia 4</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%204.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%204.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%204.mp3" length="5114686" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1704</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Murder in Mesopotamia 5</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%205.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%205.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%205.mp3" length="5308414" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1769</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Sad Cypress 1</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%201.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%201.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%201.mp3" length="5090570" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1696</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Sad Cypress 2</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%202.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%202.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%202.mp3" length="5080539" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1693</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Sad Cypress 3</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%203.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%203.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%203.mp3" length="5010008" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1669</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Sad Cypress 4</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%204.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%204.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%204.mp3" length="5174423" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1724</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Sad Cypress 5</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%205.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%205.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%205.mp3" length="5119095" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1705</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Taken at the Flood 1</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%201.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%201.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%201.mp3" length="4925911" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1641</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Taken at the Flood 2</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%202.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%202.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%202.mp3" length="4904751" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1634</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Taken at the Flood 3</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%203.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%203.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%203.mp3" length="4904751" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1634</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Taken at the Flood 4</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%204.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%204.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%204.mp3" length="4936882" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1645</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Taken at the Flood 5</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%205.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%205.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%205.mp3" length="4936725" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1645</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | The Sittaford Mystery 1</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%201.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%201.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%201.mp3" length="5196817" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1731</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | The Sittaford Mystery 2</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%202.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%202.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%202.mp3" length="5283178" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1760</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | The Sittaford Mystery 3</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%203.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%203.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%203.mp3" length="5209356" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1736</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | The Sittaford Mystery 4</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%204.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%204.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%204.mp3" length="5164686" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1721</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | The Sittaford Mystery 5</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%205.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%205.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%205.mp3" length="5295716" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1764</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Three Act Tragedy 1</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%201.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%201.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%201.mp3" length="4937583" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1645</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Three Act Tragedy 2</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%202.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%202.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%202.mp3" length="4925671" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1641</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Three Act Tragedy 3</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%203.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%203.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%203.mp3" length="4936015" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1644</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Three Act Tragedy 4</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%204.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%204.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%204.mp3" length="4935859" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1644</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Poirot Mysteries | Three Act Tragedy 5</title>
-      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%205.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Poirot Mysteries]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%205.mp3</guid>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%205.mp3" length="4938366" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1645</itunes:duration>
+      <itunes:image href="https://archive.org/download/PoirotOnTheOrient/PoirotOnTheOrient.jpg"/>
     </item>
     <item>
       <title>BBC Father Brown | Father Brown Stories - S01 - E01 - The Blue Cross</title>
-      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E01%20-%20The%20Blue%20Cross.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Father Brown]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E01%20-%20The%20Blue%20Cross.mp3</guid>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E01%20-%20The%20Blue%20Cross.mp3" length="24926347" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1557</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG/960px-Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG"/>
     </item>
     <item>
       <title>BBC Father Brown | Father Brown Stories - S01 - E02 - The Queer Feet</title>
-      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E02%20-%20The%20Queer%20Feet.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Father Brown]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E02%20-%20The%20Queer%20Feet.mp3</guid>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E02%20-%20The%20Queer%20Feet.mp3" length="25476767" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1592</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG/960px-Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG"/>
     </item>
     <item>
       <title>BBC Father Brown | Father Brown Stories - S01 - E03 - The Eye of Apollo</title>
-      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E03%20-%20The%20Eye%20of%20Apollo.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Father Brown]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E03%20-%20The%20Eye%20of%20Apollo.mp3</guid>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E03%20-%20The%20Eye%20of%20Apollo.mp3" length="25870491" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1616</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG/960px-Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG"/>
     </item>
     <item>
       <title>BBC Father Brown | Father Brown Stories - S01 - E04 - The Invisible Man</title>
-      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E04%20-%20The%20Invisible%20Man.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Father Brown]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E04%20-%20The%20Invisible%20Man.mp3</guid>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E04%20-%20The%20Invisible%20Man.mp3" length="25785645" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1611</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG/960px-Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG"/>
     </item>
     <item>
       <title>BBC Father Brown | Father Brown Stories - S01 - E05 - The Honour of Israel Gow</title>
-      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E05%20-%20The%20Honour%20of%20Israel%20Gow.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Father Brown]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E05%20-%20The%20Honour%20of%20Israel%20Gow.mp3</guid>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E05%20-%20The%20Honour%20of%20Israel%20Gow.mp3" length="26235415" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1639</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG/960px-Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG"/>
     </item>
     <item>
       <title>BBC Father Brown | Father Brown Stories - S01 - E06 - The Hammer of God</title>
-      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E06%20-%20The%20Hammer%20of%20God.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Father Brown]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E06%20-%20The%20Hammer%20of%20God.mp3</guid>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E06%20-%20The%20Hammer%20of%20God.mp3" length="26089115" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1630</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG/960px-Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG"/>
     </item>
     <item>
       <title>BBC Father Brown | Father Brown Stories - S01 - E07 - The Sins of Prince Saradine</title>
-      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E07%20-%20The%20Sins%20of%20Prince%20Saradine.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Father Brown]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E07%20-%20The%20Sins%20of%20Prince%20Saradine.mp3</guid>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E07%20-%20The%20Sins%20of%20Prince%20Saradine.mp3" length="26239151" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1639</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG/960px-Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG"/>
     </item>
     <item>
       <title>BBC Father Brown | Father Brown Stories - S02 - E01 - The Perishing of the Pendragons</title>
-      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E01%20-%20The%20Perishing%20of%20the%20Pendragons.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Father Brown]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E01%20-%20The%20Perishing%20of%20the%20Pendragons.mp3</guid>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E01%20-%20The%20Perishing%20of%20the%20Pendragons.mp3" length="25958740" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1622</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG/960px-Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG"/>
     </item>
     <item>
       <title>BBC Father Brown | Father Brown Stories - S02 - E02 - The Arrow of Heaven</title>
-      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E02%20-%20The%20Arrow%20of%20Heaven.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Father Brown]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E02%20-%20The%20Arrow%20of%20Heaven.mp3</guid>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E02%20-%20The%20Arrow%20of%20Heaven.mp3" length="25894350" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1618</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG/960px-Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG"/>
     </item>
     <item>
       <title>BBC Father Brown | Father Brown Stories - S02 - E03 - The Mistake of the Machine</title>
-      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E03%20-%20The%20Mistake%20of%20the%20Machine.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Father Brown]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E03%20-%20The%20Mistake%20of%20the%20Machine.mp3</guid>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E03%20-%20The%20Mistake%20of%20the%20Machine.mp3" length="26229570" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1639</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG/960px-Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG"/>
     </item>
     <item>
       <title>BBC Father Brown | Father Brown Stories - S02 - E04 - The Curse of the Golden Cross</title>
-      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E04%20-%20The%20Curse%20of%20the%20Golden%20Cross.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Father Brown]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E04%20-%20The%20Curse%20of%20the%20Golden%20Cross.mp3</guid>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E04%20-%20The%20Curse%20of%20the%20Golden%20Cross.mp3" length="26221217" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1638</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG/960px-Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG"/>
     </item>
     <item>
       <title>BBC Father Brown | Father Brown Stories - S02 - E05 - Actor and Alibi</title>
-      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E05%20-%20Actor%20and%20Alibi.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Father Brown]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E05%20-%20Actor%20and%20Alibi.mp3</guid>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E05%20-%20Actor%20and%20Alibi.mp3" length="26162674" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1635</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG/960px-Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG"/>
     </item>
     <item>
       <title>BBC Father Brown | Father Brown Stories - S02 - E06 - The Absence of Mr. Glass</title>
-      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E06%20-%20The%20Absence%20of%20Mr.%20Glass.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Father Brown]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E06%20-%20The%20Absence%20of%20Mr.%20Glass.mp3</guid>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E06%20-%20The%20Absence%20of%20Mr.%20Glass.mp3" length="28131696" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>1758</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG/960px-Filming_the_Father_Brown_series_in_Blockley_Churchyard.JPG"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 01 A Scandal in Bohemia</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/01%20A%20Scandal%20in%20Bohemia.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/01%20A%20Scandal%20in%20Bohemia.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/01%20A%20Scandal%20in%20Bohemia.mp3" length="51739313" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2586</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 02 The Red-headed League</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/02%20The%20Red-headed%20League.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/02%20The%20Red-headed%20League.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/02%20The%20Red-headed%20League.mp3" length="53352593" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2667</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 03 A Case of Identity</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/03%20A%20Case%20of%20Identity.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/03%20A%20Case%20of%20Identity.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/03%20A%20Case%20of%20Identity.mp3" length="52945553" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2647</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 04 The Boscombe Valley Mystery</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/04%20The%20Boscombe%20Valley%20Mystery.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/04%20The%20Boscombe%20Valley%20Mystery.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/04%20The%20Boscombe%20Valley%20Mystery.mp3" length="52799633" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2639</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 05 The Five Orange Pips</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/05%20The%20Five%20Orange%20Pips.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/05%20The%20Five%20Orange%20Pips.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/05%20The%20Five%20Orange%20Pips.mp3" length="51062993" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2553</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 06 The Man with the Twisted Lip</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/06%20The%20Man%20with%20the%20Twisted%20Lip.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/06%20The%20Man%20with%20the%20Twisted%20Lip.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/06%20The%20Man%20with%20the%20Twisted%20Lip.mp3" length="53024273" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2651</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 07 The Blue Carbuncle</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/07%20The%20Blue%20Carbuncle.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/07%20The%20Blue%20Carbuncle.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/07%20The%20Blue%20Carbuncle.mp3" length="50650193" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2532</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 08 The Speckled Band</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/08%20The%20Speckled%20Band.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/08%20The%20Speckled%20Band.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/08%20The%20Speckled%20Band.mp3" length="53294513" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2664</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 09 The Engineer's Thumb</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/09%20The%20Engineer%27s%20Thumb.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/09%20The%20Engineer%27s%20Thumb.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/09%20The%20Engineer%27s%20Thumb.mp3" length="52024913" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2601</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 10 The Noble Bachelor</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/10%20The%20Noble%20Bachelor.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/10%20The%20Noble%20Bachelor.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/10%20The%20Noble%20Bachelor.mp3" length="53091953" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2654</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 11 The Beryl Coronet</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/11%20The%20Beryl%20Coronet.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/11%20The%20Beryl%20Coronet.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/11%20The%20Beryl%20Coronet.mp3" length="53008913" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2650</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 12 The Copper Beeches</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/12%20The%20Copper%20Beeches.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/12%20The%20Copper%20Beeches.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/12%20The%20Copper%20Beeches.mp3" length="53029553" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2651</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 01 Silver Blaze</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/01%20Silver%20Blaze.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/01%20Silver%20Blaze.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/01%20Silver%20Blaze.mp3" length="53293550" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2664</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 02 The Yellow Face</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/02%20The%20Yellow%20Face.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/02%20The%20Yellow%20Face.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/02%20The%20Yellow%20Face.mp3" length="52393500" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2619</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 03 The Stockbroker's Clerk</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/03%20The%20Stockbroker%27s%20Clerk.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/03%20The%20Stockbroker%27s%20Clerk.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/03%20The%20Stockbroker%27s%20Clerk.mp3" length="52219790" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2610</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 04 The Gloria Scott</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/04%20The%20Gloria%20Scott.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/04%20The%20Gloria%20Scott.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/04%20The%20Gloria%20Scott.mp3" length="52728590" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2636</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 05 The Musgrave Ritual</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/05%20The%20Musgrave%20Ritual.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/05%20The%20Musgrave%20Ritual.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/05%20The%20Musgrave%20Ritual.mp3" length="52564430" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2628</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 06 The Reigate Squires</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/06%20The%20Reigate%20Squires.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/06%20The%20Reigate%20Squires.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/06%20The%20Reigate%20Squires.mp3" length="52899470" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2644</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 07 The Crooked Man</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/07%20The%20Crooked%20Man.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/07%20The%20Crooked%20Man.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/07%20The%20Crooked%20Man.mp3" length="53315150" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2665</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 08 The Resident Patient</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/08%20The%20Resident%20Patient.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/08%20The%20Resident%20Patient.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/08%20The%20Resident%20Patient.mp3" length="50116430" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2505</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 09 The Greek Interpreter</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/09%20The%20Greek%20Interpreter.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/09%20The%20Greek%20Interpreter.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/09%20The%20Greek%20Interpreter.mp3" length="52463630" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2623</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 10 The Naval Treaty</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/10%20The%20Naval%20Treaty.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/10%20The%20Naval%20Treaty.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/10%20The%20Naval%20Treaty.mp3" length="53194190" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2659</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 11 The Final Problem</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/11%20The%20Final%20Problem.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/11%20The%20Final%20Problem.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/11%20The%20Final%20Problem.mp3" length="52961870" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2647</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 01 The Empty House</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/01%20The%20Empty%20House.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/01%20The%20Empty%20House.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/01%20The%20Empty%20House.mp3" length="53378048" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2668</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 02 The Norwood Builder</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/02%20The%20Norwood%20Builder.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/02%20The%20Norwood%20Builder.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/02%20The%20Norwood%20Builder.mp3" length="53055488" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2652</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 03 The Dancing Men</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/03%20The%20Dancing%20Men.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/03%20The%20Dancing%20Men.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/03%20The%20Dancing%20Men.mp3" length="52046048" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2602</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 04 The Solitary Cyclist</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/04%20The%20Solitary%20Cyclist.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/04%20The%20Solitary%20Cyclist.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/04%20The%20Solitary%20Cyclist.mp3" length="51058688" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2552</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 05 The Priory School</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/05%20The%20Priory%20School.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/05%20The%20Priory%20School.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/05%20The%20Priory%20School.mp3" length="52901408" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2644</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 06 Black Peter</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/06%20Black%20Peter.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/06%20Black%20Peter.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/06%20Black%20Peter.mp3" length="52689248" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2634</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 07 Charles Augustus Milverton</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/07%20Charles%20Augustus%20Milverton.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/07%20Charles%20Augustus%20Milverton.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/07%20Charles%20Augustus%20Milverton.mp3" length="53087648" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2654</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 08 The Six Napoleons</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/08%20The%20Six%20Napoleons.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/08%20The%20Six%20Napoleons.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/08%20The%20Six%20Napoleons.mp3" length="51624608" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2581</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 09 The Three Students</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/09%20The%20Three%20Students.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/09%20The%20Three%20Students.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/09%20The%20Three%20Students.mp3" length="51823808" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2591</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 10 The Golden Pince-nez</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/10%20The%20Golden%20Pince-nez.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/10%20The%20Golden%20Pince-nez.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/10%20The%20Golden%20Pince-nez.mp3" length="52862528" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2643</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 11 The Missing Three-quarter</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/11%20The%20Missing%20Three-quarter.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/11%20The%20Missing%20Three-quarter.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/11%20The%20Missing%20Three-quarter.mp3" length="52962677" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2648</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 12 The Abbey Grange</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/12%20The%20Abbey%20Grange.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/12%20The%20Abbey%20Grange.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/12%20The%20Abbey%20Grange.mp3" length="51846368" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2592</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 13 The Second Stain</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/13%20The%20Second%20Stain.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/13%20The%20Second%20Stain.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/13%20The%20Second%20Stain.mp3" length="52906208" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2645</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 01 Wisteria Lodge</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/01%20Wisteria%20Lodge.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/01%20Wisteria%20Lodge.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/01%20Wisteria%20Lodge.mp3" length="53037692" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2651</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 02 The Cardboard Box</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/02%20The%20Cardboard%20Box.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/02%20The%20Cardboard%20Box.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/02%20The%20Cardboard%20Box.mp3" length="53127452" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2656</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 03 The Red Circle</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/03%20The%20Red%20Circle.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/03%20The%20Red%20Circle.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/03%20The%20Red%20Circle.mp3" length="53093852" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2654</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 04 The Bruce Partington Plans</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/04%20The%20Bruce%20Partington%20Plans.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/04%20The%20Bruce%20Partington%20Plans.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/04%20The%20Bruce%20Partington%20Plans.mp3" length="52814972" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2640</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 05 The Dying Dectective</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/05%20The%20Dying%20Dectective.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/05%20The%20Dying%20Dectective.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/05%20The%20Dying%20Dectective.mp3" length="53060732" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2652</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 06 The Disapperance of Lady Frances Carfax</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/06%20The%20Disapperance%20of%20Lady%20Frances%20Carfax.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/06%20The%20Disapperance%20of%20Lady%20Frances%20Carfax.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/06%20The%20Disapperance%20of%20Lady%20Frances%20Carfax.mp3" length="51402332" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2570</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 07 The Devil's Foot</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/07%20The%20Devil%27s%20Foot.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/07%20The%20Devil%27s%20Foot.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/07%20The%20Devil%27s%20Foot.mp3" length="53284892" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2664</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 08 His Last Bow</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/08%20His%20Last%20Bow.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/08%20His%20Last%20Bow.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/08%20His%20Last%20Bow.mp3" length="52917692" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2645</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 01 The Illustrious Client</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/01%20The%20Illustrious%20Client.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/01%20The%20Illustrious%20Client.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/01%20The%20Illustrious%20Client.mp3" length="51034283" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2551</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 02 The Blanched Soldier</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/02%20The%20Blanched%20Soldier.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/02%20The%20Blanched%20Soldier.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/02%20The%20Blanched%20Soldier.mp3" length="51641872" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2581</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 03 The Mazarin Stone</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/03%20The%20Mazarin%20Stone.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/03%20The%20Mazarin%20Stone.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/03%20The%20Mazarin%20Stone.mp3" length="51845872" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2592</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 04 The Three Gables</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/04%20The%20Three%20Gables.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/04%20The%20Three%20Gables.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/04%20The%20Three%20Gables.mp3" length="52998832" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2649</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 05 The Sussex Vampire</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/05%20The%20Sussex%20Vampire.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/05%20The%20Sussex%20Vampire.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/05%20The%20Sussex%20Vampire.mp3" length="51445552" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2572</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 06 The Three Garridebs</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/06%20The%20Three%20Garridebs.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/06%20The%20Three%20Garridebs.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/06%20The%20Three%20Garridebs.mp3" length="53273872" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2663</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 07 The Problem of Thor Bridge</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/07%20The%20Problem%20of%20Thor%20Bridge.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/07%20The%20Problem%20of%20Thor%20Bridge.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/07%20The%20Problem%20of%20Thor%20Bridge.mp3" length="52916296" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2645</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 08 The Creeping Man</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/08%20The%20Creeping%20Man.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/08%20The%20Creeping%20Man.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/08%20The%20Creeping%20Man.mp3" length="53374672" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2668</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 09 The Lion's Mane</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/09%20The%20Lion%27s%20Mane.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/09%20The%20Lion%27s%20Mane.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/09%20The%20Lion%27s%20Mane.mp3" length="53420272" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2670</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 10 The Veiled Lodger</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/10%20The%20Veiled%20Lodger.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/10%20The%20Veiled%20Lodger.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/10%20The%20Veiled%20Lodger.mp3" length="53253736" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2662</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 11 Shoscombe Old Place</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/11%20Shoscombe%20Old%20Place.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/11%20Shoscombe%20Old%20Place.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/11%20Shoscombe%20Old%20Place.mp3" length="52062856" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2603</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 12 The Retired Colourman</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/12%20The%20Retired%20Colourman.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/12%20The%20Retired%20Colourman.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/12%20The%20Retired%20Colourman.mp3" length="53041576" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2651</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 01 The Madness of Colonel Warburton</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/01%20The%20Madness%20of%20Colonel%20Warburton.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/01%20The%20Madness%20of%20Colonel%20Warburton.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/01%20The%20Madness%20of%20Colonel%20Warburton.mp3" length="42207911" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2637</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 02 The Star of the Adelphi</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/02%20The%20Star%20of%20the%20Adelphi.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/02%20The%20Star%20of%20the%20Adelphi.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/02%20The%20Star%20of%20the%20Adelphi.mp3" length="42051896" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2644</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 03 The Peculiar Persecution of Mr John Vincent Harden</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/03%20The%20Peculiar%20Persecution%20of%20Mr%20John%20Vincent%20Harden.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/03%20The%20Peculiar%20Persecution%20of%20Mr%20John%20Vincent%20Harden.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/03%20The%20Peculiar%20Persecution%20of%20Mr%20John%20Vincent%20Harden.mp3" length="41863472" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2635</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 04 The Singular Inheritance of Miss Gloria Wilson</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/04%20The%20Singular%20Inheritance%20of%20Miss%20Gloria%20Wilson.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/04%20The%20Singular%20Inheritance%20of%20Miss%20Gloria%20Wilson.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/04%20The%20Singular%20Inheritance%20of%20Miss%20Gloria%20Wilson.mp3" length="41897384" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2641</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 05 The Saviour of Cripplegate Square</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/05%20The%20Saviour%20of%20Cripplegate%20Square.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/05%20The%20Saviour%20of%20Cripplegate%20Square.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/05%20The%20Saviour%20of%20Cripplegate%20Square.mp3" length="42515998" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2642</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 06 The Abergavenny Murder</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/06%20The%20Abergavenny%20Murder.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/06%20The%20Abergavenny%20Murder.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/06%20The%20Abergavenny%20Murder.mp3" length="41416676" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2600</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 07 The Shameful Betrayal of Miss Emily Smith</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/07%20The%20Shameful%20Betrayal%20of%20Miss%20Emily%20Smith.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/07%20The%20Shameful%20Betrayal%20of%20Miss%20Emily%20Smith.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/07%20The%20Shameful%20Betrayal%20of%20Miss%20Emily%20Smith.mp3" length="41772674" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2605</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 08 The Tragedy of Hanbury Street</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/08%20The%20Tragedy%20of%20Hanbury%20Street.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/08%20The%20Tragedy%20of%20Hanbury%20Street.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/08%20The%20Tragedy%20of%20Hanbury%20Street.mp3" length="41849206" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2611</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 09 The Determind Client</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/09%20The%20Determind%20Client.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/09%20The%20Determind%20Client.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/09%20The%20Determind%20Client.mp3" length="41951529" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2608</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 10 The Striking Success of Miss Franny Blossom</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/10%20The%20Striking%20Success%20of%20Miss%20Franny%20Blossom.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/10%20The%20Striking%20Success%20of%20Miss%20Franny%20Blossom.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/10%20The%20Striking%20Success%20of%20Miss%20Franny%20Blossom.mp3" length="41750463" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>2612</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 1 Revenge</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/1%20-%20A%20Study%20in%20Scarlet/1%20Revenge.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/1%20-%20A%20Study%20in%20Scarlet/1%20Revenge.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/1%20-%20A%20Study%20in%20Scarlet/1%20Revenge.mp3" length="67821460" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>3390</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 2 The Country of the Saints</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/1%20-%20A%20Study%20in%20Scarlet/2%20The%20Country%20of%20the%20Saints.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/1%20-%20A%20Study%20in%20Scarlet/2%20The%20Country%20of%20the%20Saints.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/1%20-%20A%20Study%20in%20Scarlet/2%20The%20Country%20of%20the%20Saints.mp3" length="67620335" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>3380</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 1 Timbertoe</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/2%20-%20The%20Sign%20of%20The%20Four/1%20Timbertoe.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/2%20-%20The%20Sign%20of%20The%20Four/1%20Timbertoe.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/2%20-%20The%20Sign%20of%20The%20Four/1%20Timbertoe.mp3" length="68677525" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>3433</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 2 The Great Agra Treasure</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/2%20-%20The%20Sign%20of%20The%20Four/2%20The%20Great%20Agra%20Treasure.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/2%20-%20The%20Sign%20of%20The%20Four/2%20The%20Great%20Agra%20Treasure.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/2%20-%20The%20Sign%20of%20The%20Four/2%20The%20Great%20Agra%20Treasure.mp3" length="68366160" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>3418</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 1 The Powers of Evil</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/3%20-%20The%20Hound%20of%20the%20Baskervilles/1%20The%20Powers%20of%20Evil.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/3%20-%20The%20Hound%20of%20the%20Baskervilles/1%20The%20Powers%20of%20Evil.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/3%20-%20The%20Hound%20of%20the%20Baskervilles/1%20The%20Powers%20of%20Evil.mp3" length="67835588" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>3391</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 2 Death on the Moor</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/3%20-%20The%20Hound%20of%20the%20Baskervilles/2%20Death%20on%20the%20Moor.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/3%20-%20The%20Hound%20of%20the%20Baskervilles/2%20Death%20on%20the%20Moor.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/3%20-%20The%20Hound%20of%20the%20Baskervilles/2%20Death%20on%20the%20Moor.mp3" length="67808942" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>3390</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 1 The Scowres</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/4%20-%20The%20Valley%20of%20Fear/1%20The%20Scowres.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/4%20-%20The%20Valley%20of%20Fear/1%20The%20Scowres.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/4%20-%20The%20Valley%20of%20Fear/1%20The%20Scowres.mp3" length="68386231" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>3419</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
     <item>
       <title>BBC Sherlock Holmes - Clive Merrisson | 2 The Tragedy of Birlstone</title>
-      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/4%20-%20The%20Valley%20of%20Fear/2%20The%20Tragedy%20of%20Birlstone.mp3" type="audio/mpeg"/>
+      <description><![CDATA[BBC Radio Drama: Sherlock Holmes - Clive Merrisson]]></description>
+      <pubDate>Sat, 13 Sep 2025 13:13:03 -0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/4%20-%20The%20Valley%20of%20Fear/2%20The%20Tragedy%20of%20Birlstone.mp3</guid>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/4%20-%20The%20Valley%20of%20Fear/2%20The%20Tragedy%20of%20Birlstone.mp3" length="68453117" type="audio/mpeg"/>
+      <itunes:author>BBC Radio</itunes:author>
+      <itunes:duration>3422</itunes:duration>
+      <itunes:image href="https://ichef.bbci.co.uk/images/ic/896xn/p028l6pk.jpg"/>
     </item>
   </channel>
 </rss>
