@@ -1,57 +1,565 @@
 <?xml version="1.0" ?>
 <rss version="2.0">
   <channel>
-    <title>The Case-Book of Sherlock Holmes (BBC Radio)</title>
-    <link>https://archive.org/download/tcboshbbc/</link>
+    <title>Kombinierter Podcast Feed</title>
+    <link>https://archive.org/download/tcboshbbc</link>
     <language>en</language>
-    <description>BBC Radio Drama collection from archive.org</description>
+    <description>Kombinierter Feed aus mehreren Archive.org Sammlungen</description>
     <item>
-      <title>49 - The Case-Book Of Sherlock Holmes - The Adventure Of The Illustrious Client</title>
+      <title>BBC Sherlock Holmes | 49 - The Case-Book Of Sherlock Holmes - The Adventure Of The Illustrious Client</title>
       <enclosure url="https://archive.org/download/tcboshbbc/49%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Illustrious%20Client.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>50 - The Case-Book Of Sherlock Holmes - The Adventure Of The Blanched Soldier</title>
+      <title>BBC Sherlock Holmes | 50 - The Case-Book Of Sherlock Holmes - The Adventure Of The Blanched Soldier</title>
       <enclosure url="https://archive.org/download/tcboshbbc/50%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Blanched%20Soldier.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>51 - The Case-Book Of Sherlock Holmes - The Adventure Of The Mazarin Stone</title>
+      <title>BBC Sherlock Holmes | 51 - The Case-Book Of Sherlock Holmes - The Adventure Of The Mazarin Stone</title>
       <enclosure url="https://archive.org/download/tcboshbbc/51%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Mazarin%20Stone.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>52 - The Case-Book Of Sherlock Holmes - The Adventure Of The Three Gables</title>
+      <title>BBC Sherlock Holmes | 52 - The Case-Book Of Sherlock Holmes - The Adventure Of The Three Gables</title>
       <enclosure url="https://archive.org/download/tcboshbbc/52%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Three%20Gables.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>53 - The Case-Book Of Sherlock Holmes - The Adventure Of The Sussex Vampire</title>
+      <title>BBC Sherlock Holmes | 53 - The Case-Book Of Sherlock Holmes - The Adventure Of The Sussex Vampire</title>
       <enclosure url="https://archive.org/download/tcboshbbc/53%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Sussex%20Vampire.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>54 - The Case-Book Of Sherlock Holmes - The Adventure Of The Three Garridebs</title>
+      <title>BBC Sherlock Holmes | 54 - The Case-Book Of Sherlock Holmes - The Adventure Of The Three Garridebs</title>
       <enclosure url="https://archive.org/download/tcboshbbc/54%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Three%20Garridebs.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>55 - The Case-Book Of Sherlock Holmes - The Problem Of Thor Bridge</title>
+      <title>BBC Sherlock Holmes | 55 - The Case-Book Of Sherlock Holmes - The Problem Of Thor Bridge</title>
       <enclosure url="https://archive.org/download/tcboshbbc/55%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Problem%20Of%20Thor%20Bridge.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>56 - The Case-Book Of Sherlock Holmes - The Adventure Of The Creeping Man</title>
+      <title>BBC Sherlock Holmes | 56 - The Case-Book Of Sherlock Holmes - The Adventure Of The Creeping Man</title>
       <enclosure url="https://archive.org/download/tcboshbbc/56%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Creeping%20Man.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>57 - The Case-Book Of Sherlock Holmes - The Adventure Of The Lions Mane</title>
+      <title>BBC Sherlock Holmes | 57 - The Case-Book Of Sherlock Holmes - The Adventure Of The Lions Mane</title>
       <enclosure url="https://archive.org/download/tcboshbbc/57%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Lions%20Mane.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>58 - The Case-Book Of Sherlock Holmes - The Adventure Of The Veiled Lodger</title>
+      <title>BBC Sherlock Holmes | 58 - The Case-Book Of Sherlock Holmes - The Adventure Of The Veiled Lodger</title>
       <enclosure url="https://archive.org/download/tcboshbbc/58%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Veiled%20Lodger.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>59 - The Case-Book Of Sherlock Holmes - The Adventure Of Shoscombe Old Place</title>
+      <title>BBC Sherlock Holmes | 59 - The Case-Book Of Sherlock Holmes - The Adventure Of Shoscombe Old Place</title>
       <enclosure url="https://archive.org/download/tcboshbbc/59%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20Shoscombe%20Old%20Place.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>60 - The Case-Book Of Sherlock Holmes - The Adventure Of The Retired Colourman</title>
+      <title>BBC Sherlock Holmes | 60 - The Case-Book Of Sherlock Holmes - The Adventure Of The Retired Colourman</title>
       <enclosure url="https://archive.org/download/tcboshbbc/60%20-%20The%20Case-Book%20Of%20Sherlock%20Holmes%20-%20The%20Adventure%20Of%20The%20Retired%20Colourman.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot | Agatha Christie - Murder on the Orient Express (BBC) 1 of 5</title>
+      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%201%20of%205.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot | Agatha Christie - Murder on the Orient Express (BBC) 2 of 5</title>
+      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%202%20of%205.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot | Agatha Christie - Murder on the Orient Express (BBC) 3 of 5</title>
+      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%203%20of%205.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot | Agatha Christie - Murder on the Orient Express (BBC) 4 of 5</title>
+      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%204%20of%205.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot | Agatha Christie - Murder on the Orient Express (BBC) 5 of 5</title>
+      <enclosure url="https://archive.org/download/PoirotOnTheOrient/Agatha%20Christie%20-%20Murder%20on%20the%20Orient%20Express%20%28BBC%29%205%20of%205.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Lord Edgware Dies 1</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%201.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Lord Edgware Dies 2</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%202.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Lord Edgware Dies 3</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%203.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Lord Edgware Dies 4</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%204.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Lord Edgware Dies 5</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Lord%20Edgware%20Dies%205.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Mrs. McGinty's Dead 1</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%201.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Mrs. McGinty's Dead 2</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%202.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Mrs. McGinty's Dead 3</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%203.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Mrs. McGinty's Dead 4</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%204.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Mrs. McGinty's Dead 5</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Mrs.%20McGinty%27s%20Dead%205.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Murder in Mesopotamia 1</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%201.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Murder in Mesopotamia 2</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%202.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Murder in Mesopotamia 3</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%203.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Murder in Mesopotamia 4</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%204.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Murder in Mesopotamia 5</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Murder%20in%20Mesopotamia%205.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Sad Cypress 1</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%201.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Sad Cypress 2</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%202.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Sad Cypress 3</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%203.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Sad Cypress 4</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%204.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Sad Cypress 5</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Sad%20Cypress%205.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Taken at the Flood 1</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%201.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Taken at the Flood 2</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%202.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Taken at the Flood 3</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%203.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Taken at the Flood 4</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%204.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Taken at the Flood 5</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Taken%20at%20the%20Flood%205.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | The Sittaford Mystery 1</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%201.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | The Sittaford Mystery 2</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%202.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | The Sittaford Mystery 3</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%203.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | The Sittaford Mystery 4</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%204.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | The Sittaford Mystery 5</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/The%20Sittaford%20Mystery%205.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Three Act Tragedy 1</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%201.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Three Act Tragedy 2</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%202.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Three Act Tragedy 3</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%203.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Three Act Tragedy 4</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%204.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Poirot Mysteries | Three Act Tragedy 5</title>
+      <enclosure url="https://archive.org/download/PoirotMoffattAndSittaford/Three%20Act%20Tragedy%205.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Father Brown | Father Brown Stories - S01 - E01 - The Blue Cross</title>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E01%20-%20The%20Blue%20Cross.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Father Brown | Father Brown Stories - S01 - E02 - The Queer Feet</title>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E02%20-%20The%20Queer%20Feet.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Father Brown | Father Brown Stories - S01 - E03 - The Eye of Apollo</title>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E03%20-%20The%20Eye%20of%20Apollo.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Father Brown | Father Brown Stories - S01 - E04 - The Invisible Man</title>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E04%20-%20The%20Invisible%20Man.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Father Brown | Father Brown Stories - S01 - E05 - The Honour of Israel Gow</title>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E05%20-%20The%20Honour%20of%20Israel%20Gow.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Father Brown | Father Brown Stories - S01 - E06 - The Hammer of God</title>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E06%20-%20The%20Hammer%20of%20God.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Father Brown | Father Brown Stories - S01 - E07 - The Sins of Prince Saradine</title>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S01%20-%20E07%20-%20The%20Sins%20of%20Prince%20Saradine.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Father Brown | Father Brown Stories - S02 - E01 - The Perishing of the Pendragons</title>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E01%20-%20The%20Perishing%20of%20the%20Pendragons.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Father Brown | Father Brown Stories - S02 - E02 - The Arrow of Heaven</title>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E02%20-%20The%20Arrow%20of%20Heaven.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Father Brown | Father Brown Stories - S02 - E03 - The Mistake of the Machine</title>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E03%20-%20The%20Mistake%20of%20the%20Machine.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Father Brown | Father Brown Stories - S02 - E04 - The Curse of the Golden Cross</title>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E04%20-%20The%20Curse%20of%20the%20Golden%20Cross.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Father Brown | Father Brown Stories - S02 - E05 - Actor and Alibi</title>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E05%20-%20Actor%20and%20Alibi.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Father Brown | Father Brown Stories - S02 - E06 - The Absence of Mr. Glass</title>
+      <enclosure url="https://archive.org/download/FatherBrownSachs/Father%20Brown%20Stories%20-%20S02%20-%20E06%20-%20The%20Absence%20of%20Mr.%20Glass.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 01 A Scandal in Bohemia</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/01%20A%20Scandal%20in%20Bohemia.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 02 The Red-headed League</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/02%20The%20Red-headed%20League.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 03 A Case of Identity</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/03%20A%20Case%20of%20Identity.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 04 The Boscombe Valley Mystery</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/04%20The%20Boscombe%20Valley%20Mystery.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 05 The Five Orange Pips</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/05%20The%20Five%20Orange%20Pips.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 06 The Man with the Twisted Lip</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/06%20The%20Man%20with%20the%20Twisted%20Lip.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 07 The Blue Carbuncle</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/07%20The%20Blue%20Carbuncle.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 08 The Speckled Band</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/08%20The%20Speckled%20Band.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 09 The Engineer's Thumb</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/09%20The%20Engineer%27s%20Thumb.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 10 The Noble Bachelor</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/10%20The%20Noble%20Bachelor.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 11 The Beryl Coronet</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/11%20The%20Beryl%20Coronet.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 12 The Copper Beeches</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/2%20-%20The%20Adventures%20of%20Sherlock%20Holmes/12%20The%20Copper%20Beeches.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 01 Silver Blaze</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/01%20Silver%20Blaze.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 02 The Yellow Face</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/02%20The%20Yellow%20Face.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 03 The Stockbroker's Clerk</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/03%20The%20Stockbroker%27s%20Clerk.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 04 The Gloria Scott</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/04%20The%20Gloria%20Scott.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 05 The Musgrave Ritual</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/05%20The%20Musgrave%20Ritual.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 06 The Reigate Squires</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/06%20The%20Reigate%20Squires.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 07 The Crooked Man</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/07%20The%20Crooked%20Man.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 08 The Resident Patient</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/08%20The%20Resident%20Patient.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 09 The Greek Interpreter</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/09%20The%20Greek%20Interpreter.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 10 The Naval Treaty</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/10%20The%20Naval%20Treaty.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 11 The Final Problem</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/3%20-%20The%20Memoirs%20of%20Sherlock%20Holmes/11%20The%20Final%20Problem.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 01 The Empty House</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/01%20The%20Empty%20House.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 02 The Norwood Builder</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/02%20The%20Norwood%20Builder.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 03 The Dancing Men</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/03%20The%20Dancing%20Men.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 04 The Solitary Cyclist</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/04%20The%20Solitary%20Cyclist.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 05 The Priory School</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/05%20The%20Priory%20School.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 06 Black Peter</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/06%20Black%20Peter.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 07 Charles Augustus Milverton</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/07%20Charles%20Augustus%20Milverton.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 08 The Six Napoleons</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/08%20The%20Six%20Napoleons.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 09 The Three Students</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/09%20The%20Three%20Students.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 10 The Golden Pince-nez</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/10%20The%20Golden%20Pince-nez.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 11 The Missing Three-quarter</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/11%20The%20Missing%20Three-quarter.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 12 The Abbey Grange</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/12%20The%20Abbey%20Grange.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 13 The Second Stain</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/4%20-%20The%20Return%20of%20Sherlock%20Holmes/13%20The%20Second%20Stain.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 01 Wisteria Lodge</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/01%20Wisteria%20Lodge.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 02 The Cardboard Box</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/02%20The%20Cardboard%20Box.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 03 The Red Circle</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/03%20The%20Red%20Circle.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 04 The Bruce Partington Plans</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/04%20The%20Bruce%20Partington%20Plans.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 05 The Dying Dectective</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/05%20The%20Dying%20Dectective.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 06 The Disapperance of Lady Frances Carfax</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/06%20The%20Disapperance%20of%20Lady%20Frances%20Carfax.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 07 The Devil's Foot</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/07%20The%20Devil%27s%20Foot.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 08 His Last Bow</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/5%20-%20His%20Last%20Bow/08%20His%20Last%20Bow.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 01 The Illustrious Client</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/01%20The%20Illustrious%20Client.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 02 The Blanched Soldier</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/02%20The%20Blanched%20Soldier.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 03 The Mazarin Stone</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/03%20The%20Mazarin%20Stone.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 04 The Three Gables</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/04%20The%20Three%20Gables.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 05 The Sussex Vampire</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/05%20The%20Sussex%20Vampire.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 06 The Three Garridebs</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/06%20The%20Three%20Garridebs.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 07 The Problem of Thor Bridge</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/07%20The%20Problem%20of%20Thor%20Bridge.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 08 The Creeping Man</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/08%20The%20Creeping%20Man.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 09 The Lion's Mane</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/09%20The%20Lion%27s%20Mane.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 10 The Veiled Lodger</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/10%20The%20Veiled%20Lodger.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 11 Shoscombe Old Place</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/11%20Shoscombe%20Old%20Place.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 12 The Retired Colourman</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/6%20-%20The%20Case-book%20of%20Sherlock%20Holmes/12%20The%20Retired%20Colourman.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 01 The Madness of Colonel Warburton</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/01%20The%20Madness%20of%20Colonel%20Warburton.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 02 The Star of the Adelphi</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/02%20The%20Star%20of%20the%20Adelphi.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 03 The Peculiar Persecution of Mr John Vincent Harden</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/03%20The%20Peculiar%20Persecution%20of%20Mr%20John%20Vincent%20Harden.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 04 The Singular Inheritance of Miss Gloria Wilson</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/04%20The%20Singular%20Inheritance%20of%20Miss%20Gloria%20Wilson.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 05 The Saviour of Cripplegate Square</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/05%20The%20Saviour%20of%20Cripplegate%20Square.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 06 The Abergavenny Murder</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/06%20The%20Abergavenny%20Murder.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 07 The Shameful Betrayal of Miss Emily Smith</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/07%20The%20Shameful%20Betrayal%20of%20Miss%20Emily%20Smith.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 08 The Tragedy of Hanbury Street</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/08%20The%20Tragedy%20of%20Hanbury%20Street.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 09 The Determind Client</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/09%20The%20Determind%20Client.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 10 The Striking Success of Miss Franny Blossom</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/7%20-%20The%20Further%20Adventures%20of%20Sherlock%20Holmes/10%20The%20Striking%20Success%20of%20Miss%20Franny%20Blossom.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 1 Revenge</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/1%20-%20A%20Study%20in%20Scarlet/1%20Revenge.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 2 The Country of the Saints</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/1%20-%20A%20Study%20in%20Scarlet/2%20The%20Country%20of%20the%20Saints.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 1 Timbertoe</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/2%20-%20The%20Sign%20of%20The%20Four/1%20Timbertoe.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 2 The Great Agra Treasure</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/2%20-%20The%20Sign%20of%20The%20Four/2%20The%20Great%20Agra%20Treasure.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 1 The Powers of Evil</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/3%20-%20The%20Hound%20of%20the%20Baskervilles/1%20The%20Powers%20of%20Evil.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 2 Death on the Moor</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/3%20-%20The%20Hound%20of%20the%20Baskervilles/2%20Death%20on%20the%20Moor.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 1 The Scowres</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/4%20-%20The%20Valley%20of%20Fear/1%20The%20Scowres.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>BBC Sherlock Holmes - Clive Merrisson | 2 The Tragedy of Birlstone</title>
+      <enclosure url="https://archive.org/download/SherlockHolmes-CliveMerrissonBBCAudiodramas/Sherlock%20Holmes%20-%20The%20BBC%20Radio%20Collection%20-%20SeymourDAC/1%20-%20The%20Sherlock%20Holmes%20Novels/4%20-%20The%20Valley%20of%20Fear/2%20The%20Tragedy%20of%20Birlstone.mp3" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
